@@ -116,7 +116,7 @@ Instead of physical waiting lines, customers can generate digital tokens and mon
 
 ## Project Structure
 
-<img width="175" height="700" alt="image" src="https://github.com/user-attachments/assets/99d9306a-9294-47d8-9361-c71e6f593c5f" />
+<img width="125" height="203" alt="image" src="https://github.com/user-attachments/assets/99d9306a-9294-47d8-9361-c71e6f593c5f" />
 
 
 ## Setup Instructions

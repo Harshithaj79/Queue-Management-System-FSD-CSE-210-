@@ -116,64 +116,8 @@ Instead of physical waiting lines, customers can generate digital tokens and mon
 
 ## Project Structure
 
-Queue-Management-System/
-│
-├── backend/
-│   ├── models/
-│   │   ├── Queue.js
-│   │   ├── QueueAnalytics.js
-│   │   ├── ServiceCounter.js
-│   │   └── User.js
-│   │
-│   ├── routes/
-│   │   ├── analyticsRoutes.js
-│   │   ├── authRoutes.js
-│   │   ├── counterRoutes.js
-│   │   └── queueRoutes.js
-│   │
-│   ├── .env
-│   ├── package.json
-│   ├── package-lock.json
-│   ├── seed.js
-│   └── server.js
-│
-├── frontend/
-│   ├── node_modules/
-│   ├── public/
-│   │
-│   ├── src/
-│   │   ├── assets/
-│   │   ├── components/
-│   │   │   ├── Card.jsx
-│   │   │   ├── Layout.jsx
-│   │   │   ├── Navbar.jsx
-│   │   │   ├── Sidebar.jsx
-│   │   │   └── Stat.jsx
-│   │   │
-│   │   ├── pages/
-│   │   │   ├── Admin.jsx
-│   │   │   ├── AgentDashboard.jsx
-│   │   │   ├── CustomerDashboard.jsx
-│   │   │   ├── Dashboard.jsx
-│   │   │   ├── Home.jsx
-│   │   │   ├── Login.jsx
-│   │   │   ├── Register.jsx
-│   │   │   ├── Token.jsx
-│   │   │   ├── Monitoring.jsx
-│   │   │   ├── Notifications.jsx
-│   │   │   └── Settings.jsx
-│   │   │
-│   │   ├── utils/
-│   │   │   └── avgWait.js
-│   │   │
-│   │   ├── App.css
-│   │   ├── index.css
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   │
-│   └── .gitignore
-│
-└── README.md
+<img width="175" height="700" alt="image" src="https://github.com/user-attachments/assets/99d9306a-9294-47d8-9361-c71e6f593c5f" />
+
 
 ## Setup Instructions
 1.  Clone the project
